@@ -3,7 +3,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Rinna | Saratoga Highschool | Electrical Engineering | Incoming Junior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLVKAECN_3DiveM7UxAq9YVBA7TNBcWCmp6Y3G0RPmSqAcabCVhz1ryDmks6LnsJeeRRJIZYOjhwbLk3MbcUxf9GzUPljLSCGIfN-bEYzp5nUxiqbh07Gq6ab1h65BlFhqYQXffJOmO3jwAv2m_o76Vg=w1580-h1578-no?authuser=0)
   
