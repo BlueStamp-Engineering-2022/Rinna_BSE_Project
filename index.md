@@ -5,7 +5,7 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
 
-![Headstone Image] (https://lh3.googleusercontent.com/pw/AM-JKLVKAECN_3DiveM7UxAq9YVBA7TNBcWCmp6Y3G0RPmSqAcabCVhz1ryDmks6LnsJeeRRJIZYOjhwbLk3MbcUxf9GzUPljLSCGIfN-bEYzp5nUxiqbh07Gq6ab1h65BlFhqYQXffJOmO3jwAv2m_o76Vg=w1580-h1578-no?authuser=0)
+![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLVKAECN_3DiveM7UxAq9YVBA7TNBcWCmp6Y3G0RPmSqAcabCVhz1ryDmks6LnsJeeRRJIZYOjhwbLk3MbcUxf9GzUPljLSCGIfN-bEYzp5nUxiqbh07Gq6ab1h65BlFhqYQXffJOmO3jwAv2m_o76Vg=w1580-h1578-no?authuser=0)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
