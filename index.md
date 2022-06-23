@@ -19,7 +19,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-For my first milestone I finished installing the aws cli, Amazon Rekognition, DynamoDB, a custom Alexa skill and AWS IoT. I used the access policy that was already given to me, filled in the information and all the keys that I recieved through creating my buckets and collections in DynamoDB and S3. I was also able to create the  IndexFaces function to identify a person's name which I  by an image of their face from the S3 bucket I made.  
+For my first milestone I finished installing the aws cli, Amazon Rekognition, DynamoDB, a custom Alexa skill and AWS IoT. I used the access policy that was already given to me, filled in the information and all the keys that I recieved through creating my buckets and collections in DynamoDB and S3. I was also able to create the  IndexFaces function to identify a person's name by recognizing an image of their face from the S3 bucket I made.  
 
 [![First Milestone](https://i3.ytimg.com/vi/a1zkuvdJXiQ/maxresdefault.jpg)](https://youtu.be/a1zkuvdJXiQ){:target="_blank" rel="noopener"}
 
