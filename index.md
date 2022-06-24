@@ -13,7 +13,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My Second Milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My Second Milestone was building the lock and being able to set up the camera and connect it to my raspberry pi. I inserted the motor on the track in the box and screwed it tightly to close it. I connected the wires to the arduino and when i uploaded it the lock opened and closed. Then with the camera I inserted a command into my raspberry pi. Then the feed shows up on the monitors screen for five seconds as a preview. 
 
 [![Second Milestone](https://i3.ytimg.com/vi/sz8zN-wyAeA/maxresdefault.jpg)](https://youtu.be/sz8zN-wyAeA){:target="_blank" rel="noopener"}
 # First Milestone
