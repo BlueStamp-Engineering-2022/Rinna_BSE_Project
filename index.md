@@ -1,5 +1,5 @@
 # Face Recognition Door Lock
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+This is a facial recognition door lock which can recognize a persons face at the door and then notifies the owner. Once the owner knows they can ask alexa to let the guest in. If it is a face that is recognized then the lock will open to allow the guest to come in. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
