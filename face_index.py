@@ -2,6 +2,7 @@ import boto3
 from decimal import Decimal
 import json
 import urllib
+# Add bucket name, collection name and any images key
 BUCKET = "rekognition4-images"
 KEY = "rinna.jpg"
 IMAGE_ID = KEY  # S3 key as ImageId
