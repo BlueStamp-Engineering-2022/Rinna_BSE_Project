@@ -1,5 +1,5 @@
 # Face Recognition Door Lock
-This is a facial recognition door lock which can recognize a persons face at the door and then notifies the owner. Once the owner knows they can ask alexa to let the guest in. If it is a face that is recognized then the lock will open to allow the guest to come in. 
+This is a facial recognition door lock which can recognize a persons face at the door and then notifies the owner. If it is a face that is recognized then the owner open the door by using a code to tell the lock to turn and unlock. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -15,13 +15,16 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 My Second Milestone was building the lock and being able to set up the camera and connect it to my raspberry pi. I inserted the motor on the track in the box and screwed it tightly to close it. I connected the wires to the arduino and when i uploaded it the lock opened and closed. 
 
-With the camera I inserted a command to test the camera,(raspistill -v -o test.jpg) from the raspberry pi's official website; https://www.raspberrypi.com/documentation/accessories/camera.html#raspistill. Immediately the feed shows up on the monitors screen for five seconds as a preview.
+With the camera I inserted a command to test the it, (raspistill -v -o test.jpg) from the raspberry pi's official website; https://www.raspberrypi.com/documentation/accessories/camera.html#raspistill. Immediately the feed shows up on the monitors screen for five seconds as a preview.
 
 [![Second Milestone](https://i3.ytimg.com/vi/sz8zN-wyAeA/maxresdefault.jpg)](https://youtu.be/sz8zN-wyAeA){:target="_blank" rel="noopener"}
 # First Milestone
   
 
-For my first milestone I finished installing the aws cli, Amazon Rekognition, DynamoDB, a custom Alexa skill and AWS IoT. I used the access policy that was already given to me, filled in the information and all the keys that I recieved through creating my buckets and collections in DynamoDB and S3. I was also able to create the  IndexFaces function to identify a person's name by recognizing an image of their face from the S3 bucket I made. 
+For my first milestone I finished installing the aws cli, Amazon Rekognition, DynamoDB, a custom Alexa skill and AWS IoT. I used the access policy that was already given to me, filled in the information and all the keys that I recieved through creating my buckets and collections in DynamoDB and S3. 
+The aws cli is is the command line interface, 
+
+I was also able to create the IndexFaces function to identify a person's name by recognizing an image of their face from the S3 bucket I made. 
 
 [![First Milestone](https://i3.ytimg.com/vi/a1zkuvdJXiQ/maxresdefault.jpg)](https://youtu.be/a1zkuvdJXiQ){:target="_blank" rel="noopener"}
 
