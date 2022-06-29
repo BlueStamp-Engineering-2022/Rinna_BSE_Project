@@ -19,6 +19,7 @@ from datetime import datetime as dt
 from AWSIoTPythonSDK.MQTTLib import AWSIoTMQTTClient
 myMQTTClient = AWSIoTMQTTClient("DoorLock")
 myMQTTClient.configureEndpoint("a5usqzi544tv-ats.iot.us-west-1.amazonaws.com", 8883)
+# Add the ("./rootCA.pem", "./privateKEY.key", "./certificate.crt")
 myMQTTClient.configureCredentials("./AmazonRootCA1.pem", "./d2ae43ffe5c7036a96845b66bddbf6e6f3c6f23021a7ced9150f6f0611259ea8-private.pem.key", "./d2ae43ffe5c7036a96845b66bddbf6e6f3c6f23021a7ced9150f6f0611259ea8-certificate.pem.crt")
 
 # AWSIoTMQTTClient connection configuration
@@ -36,6 +37,7 @@ import boto3
 import io
 import time
 
+# Add you bucket, key and collection names
 BUCKET = "rekognition4-images"
 KEY = "rinna.jpg"
 COLLECTION = "rekognition4_collection"
